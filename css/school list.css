@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+nav {
+    background: #ff8800;
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    padding: 0px 111px;
+    /* gap: 35px;
+    top:0;
+    z-index: 1; */
+
+}
+
+.mumbai {
+    text-transform: uppercase;
+    font-size: 20px;
+    /* padding-left: 140px; */
+    /* color: white; */
+    background: #e67200;
+    padding: 21px;
+    /* padding-bottom: 1px; */
+    /* text-decoration: none; */
+}
+
+.mumbai a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.banner {
+    background: url(https://bestschool.net.in/templates/purity_iii/images/bg4.jpg);
+    height: 279px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+}
+
+.a {
+    padding-top: 104px;
+}
+
+.banner .a input {
+    width: 600px;
+    height: 38px;
+    background: rgba(0, 0, 0, .7) none repeat scroll 0 0;
+    border: medium;
+    font-size: 17px;
+    padding-left: 10px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px whitesmoke;
+    margin-top: 26px;
+    color: white;
+    outline: none;
+
+}
+
+::placeholder {
+    color: white;
+}
+
+.b h3 {
+    margin-top: -65px;
+    margin-left: -366px;
+    text-align: center;
+    padding: 135px;
+    font-size: xxx-large;
+    color: #f80;
+    text-decoration: none;
+
+}
+
+.b p {
+    margin-bottom: 60px;
+    font-size: 24px;
+    margin-top: 0px;
+    color: #e67200;
+    margin-left: -498px;
+}
